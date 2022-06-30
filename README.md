@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and programming
 - 🌱 I’m currently learning AI and programming
 - 💞️ I’m looking to collaborate on AI and programming stuff
-- 📫 How to reach me 
+- 📫 How to reach me ...
 
 <!---
 guillemaguila-mido/guillemaguila-mido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
